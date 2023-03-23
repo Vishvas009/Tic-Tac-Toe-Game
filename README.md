@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-I am created tic-tac-toe game used python
+I created a simple tic-tac-toe game in python
